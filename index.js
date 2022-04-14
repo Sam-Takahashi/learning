@@ -1,1 +1,1 @@
-console.log("Git GUD");
+console.log("Git GUD and HUB");
